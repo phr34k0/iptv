@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Marvel Movie
+http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", DC Collection
+https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", James Bond Movie
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Movie1
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Movie2
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Movie3
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Mr Bean
+http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Game Of Thrones
+http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", The Black List
+https://ws.flv.nimo.tv/live/su1599512427618rc421cef9846ced5a2d168c70133b07b0_high.flv
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", The Flash
+http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
